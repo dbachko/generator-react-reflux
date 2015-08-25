@@ -18,7 +18,7 @@
     "del": "~1.1.1",
     "domain": "~0.0.1",
     "gulp": "~3.8.11",
-    "gulp-autoprefixer": "~2.1.0",<% if (includeSass) { %>
+    "gulp-autoprefixer": "~2.3.1",<% if (includeSass) { %>
     "gulp-cached": "~1.0.4",
     "gulp-compass": "~2.0.4",<% } %>
     "gulp-filter": "~2.0.2",
